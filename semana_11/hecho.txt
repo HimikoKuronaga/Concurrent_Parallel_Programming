@@ -1,0 +1,2 @@
+# En esta semana hemos continuado con el procesamiento de imagenes
+y algunos algoritmos para quitarle el color a una imagen y aumentar el brillo

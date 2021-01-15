@@ -1,0 +1,3 @@
+
+# EN esta semana hemos estado viendo algunos conceptos referentes al procesa-
+	miento de imagenes
